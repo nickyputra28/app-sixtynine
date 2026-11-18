@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SIXTYNINE</string>
+    <string name="title_activity_main">SIXTYNINE</string>
+    <string name="package_name">com.sixtynine.app</string>
+    <string name="custom_url_scheme">com.sixtynine.app</string>
+</resources>
